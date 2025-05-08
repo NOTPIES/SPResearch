@@ -6,3 +6,6 @@ Straw.page recently re-enabled its drawing gimmick feature, introducing a new sy
 
 ## WebSocket Endpoint
 - **Base URL**: `wss://gimmick.straw.page/ws`
+
+## Canvas Libs
+- **Drawing box** `https://cdn.jsdelivr.net/npm/konva@8.3.2/konva.min.js`
